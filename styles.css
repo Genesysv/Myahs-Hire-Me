@@ -1,0 +1,57 @@
+h1 {
+    color: #9933ff;
+    font-family: 'Xanh Mono', monospace;
+}
+
+body {
+    background-color: #99ccff;
+}
+
+h2 {
+    color: #9933ff;
+    font-family: 'Caveat', cursive;
+}
+
+.glc {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+}
+
+.holiday {
+    width: 300px;
+    height: 260px;
+}
+
+.flag {
+    width: 200px;
+    height: 150px;
+}
+
+.live {
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+
+.phone {
+    width: 160px;
+    height: 150px;
+}
+
+.bed {
+    width: 180px;
+    height: 150px;
+}
+
+.family {
+    width: 150px;
+    height: 150px;
+}
+
+.color {
+    color: #000099;
+}
